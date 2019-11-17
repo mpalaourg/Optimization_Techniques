@@ -5,7 +5,7 @@
 This is an <i>experimental</i> application developed as part of the course "Optimization Techniques" assignment, that took place in the Department of Electrical & Computer Engineering at Aristotle University of Thessaloniki in 2018.
 </p>
 <p align="justify">
-The goal of this assignment was to design a genetic algorithm that aims to approach a function f(u1,u2) whose type is unknown but we know it to be continuous. The approach will be based on the linear combination of 2-D Gaussian functions.
+The goal of this assignment was to design a genetic algorithm that aims to approach a function f(u1,u2) whose formula is unknown but we know it to be continuous. The approach will be based on the linear combination of 2-D Gaussian functions.
 </p>
 
 ---
